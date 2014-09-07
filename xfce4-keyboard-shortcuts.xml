@@ -69,18 +69,26 @@
       <property name="&lt;Alt&gt;k" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Down none"/>
       <property name="&lt;Alt&gt;j" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Left none"/>
       <property name="&lt;Alt&gt;l" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Right none"/>
+      <property name="&lt;Alt&gt;o" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Home none"/>
+      <property name="&lt;Alt&gt;" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run End none"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;i" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Up Ctrl"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;k" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Down Ctrl"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;j" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Left Ctrl"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;l" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Right Ctrl"/>
+      <property name="&lt;Control&gt;&lt;Alt&gt;o" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Home Ctrl"/>
+      <property name="&lt;Control&gt;&lt;Alt&gt;p" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run End Ctrl"/>
       <property name="&lt;Control&gt;&lt;Shift&gt;&lt;Alt&gt;i" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Up CtrlShift"/>
       <property name="&lt;Control&gt;&lt;Shift&gt;&lt;Alt&gt;k" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Down CtrlShift"/>
       <property name="&lt;Control&gt;&lt;Shift&gt;&lt;Alt&gt;j" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Left CtrlShift"/>
       <property name="&lt;Control&gt;&lt;Shift&gt;&lt;Alt&gt;l" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Right CtrlShift"/>
+      <property name="&lt;Control&gt;&lt;Shift&gt;&lt;Alt&gt;o" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Home CtrlShift"/>
+      <property name="&lt;Control&gt;&lt;Shift&gt;&lt;Alt&gt;p" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run End CtrlShift"/>
       <property name="&lt;Shift&gt;&lt;Alt&gt;i" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Up Shift"/>
       <property name="&lt;Shift&gt;&lt;Alt&gt;k" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Down Shift"/>
       <property name="&lt;Shift&gt;&lt;Alt&gt;j" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Left Shift"/>
       <property name="&lt;Shift&gt;&lt;Alt&gt;l" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Right Shift"/>
+      <property name="&lt;Shift&gt;&lt;Alt&gt;o" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run Home Shift"/>
+      <property name="&lt;Shift&gt;&lt;Alt&gt;p" type="string" value="/repo/c++/cpp-arrowkey-binder/out.run End Shift"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
